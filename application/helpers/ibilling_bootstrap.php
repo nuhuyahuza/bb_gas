@@ -169,7 +169,7 @@ $ui->assign(
         ->find_many()
 );
 
-// supports custom sub template from iBilling V 3.0.0
+// supports custom sub template from BB Gass V 3.0.0
 
 $ui->assign('tplheader', 'sections/header_default');
 $ui->assign('tplfooter', 'sections/footer_default');

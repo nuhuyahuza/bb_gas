@@ -16,7 +16,7 @@
         <div class="col-md-6">
             <div class="ibox float-e-margins" id="ib_box">
                 <div class="ibox-title">
-                    <h5>iBilling Build - {$_c['build']}</h5>
+                    <h5>BB Gass Build - {$_c['build']}</h5>
 
                 </div>
                 <div class="ibox-content" id="ibox_update">

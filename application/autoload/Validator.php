@@ -1,7 +1,7 @@
 <?php
 // *************************************************************************
 // *                                                                       *
-// * iBilling -  Accounting, Billing Software                              *
+// * BB Gass -  Accounting, Billing Software                              *
 // * Copyright (c) Sadia Sharmin. All Rights Reserved                      *
 // *                                                                       *
 // *************************************************************************

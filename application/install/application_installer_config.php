@@ -1,7 +1,7 @@
 <?php
 // *************************************************************************
 // *                                                                       *
-// * iBilling -  Accounting, Billing Software                              *
+// * BB Gass -  Accounting, Billing Software                              *
 // * Copyright (c) Sadia Sharmin. All Rights Reserved                      *
 // *                                                                       *
 // *************************************************************************
@@ -18,7 +18,7 @@
 // * here- http://codecanyon.net/licenses/standard                         *
 // *                                                                       *
 // *************************************************************************
-$app_name = 'iBilling';
+$app_name = 'BB Gass';
 $app_url = 'www.cloudonex.com';
 $release_date = 'May 18, 2021';
 $envato_username = 'CloudOnex';

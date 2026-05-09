@@ -563,7 +563,7 @@ CREATE TABLE `sys_appconfig` (
 --
 
 INSERT INTO `sys_appconfig` (`id`, `setting`, `value`) VALUES
-(1, 'CompanyName', 'iBilling'),
+(1, 'CompanyName', 'BB Gass'),
 (29, 'theme', 'ibilling'),
 (37, 'currency_code', '$'),
 (56, 'language', 'en'),
@@ -575,7 +575,7 @@ INSERT INTO `sys_appconfig` (`id`, `setting`, `value`) VALUES
 (66, 'country', 'United States'),
 (67, 'country_code', 'US'),
 (68, 'df', 'Y-m-d'),
-(69, 'caddress', 'iBilling <br> 424 Grandview Avenue <br>Staten Island <br> NYC - 10301'),
+(69, 'caddress', 'BB Gass <br> 424 Grandview Avenue <br>Staten Island <br> NYC - 10301'),
 (70, 'account_search', '1'),
 (71, 'redirect_url', 'dashboard'),
 (72, 'rtl', '0'),

@@ -71,7 +71,7 @@ $client_extra_nav = [
  * @param string $name name of the menu
  * @param string $link link of the menu
  * @param string $c controller name to set menu active
- * @param string fontawesome or iBilling icon name
+ * @param string fontawesome or BB Gass icon name
  * @param int $position position of the menu
  * @param array $submenu submenu items
  *

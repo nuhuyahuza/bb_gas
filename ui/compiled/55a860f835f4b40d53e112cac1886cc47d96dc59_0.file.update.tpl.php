@@ -29,7 +29,7 @@ function content_6049ed2832b229_41753623 (Smarty_Internal_Template $_smarty_tpl)
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>iBilling Update</title>
+    <title>BB Gass Update</title>
 
     <link href="<?php echo $_smarty_tpl->tpl_vars['_theme']->value;?>
 /css/bootstrap.min.css" rel="stylesheet">
@@ -86,7 +86,7 @@ function content_6049ed2832b229_41753623 (Smarty_Internal_Template $_smarty_tpl)
                     <div class="row">
                         <div class="col-sm-8 mt-md">
 
-                            <h4 class="h4 m-none text-dark text-bold">iBilling Update</h4>
+                            <h4 class="h4 m-none text-dark text-bold">BB Gass Update</h4>
                             <p><span  id="countmsg">Please Wait...</span> Or <a href="<?php echo $_smarty_tpl->tpl_vars['_url']->value;?>
 dashboard/">Click Here.</a> </p>
                         </div>

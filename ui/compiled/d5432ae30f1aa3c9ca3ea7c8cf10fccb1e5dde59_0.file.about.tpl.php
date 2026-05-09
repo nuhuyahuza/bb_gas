@@ -59,7 +59,7 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
         <div class="col-md-6">
             <div class="ibox float-e-margins" id="ib_box">
                 <div class="ibox-title">
-                    <h5>iBilling Build - <?php echo $_smarty_tpl->tpl_vars['_c']->value['build'];?>
+                    <h5>BB Gass Build - <?php echo $_smarty_tpl->tpl_vars['_c']->value['build'];?>
 </h5>
 
                 </div>

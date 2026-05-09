@@ -3,7 +3,7 @@
 <!--
 Dynamically Auto Generated Page - Do Not Edit
 ================================================================
-Software Name: iBilling - CRM, Accounting and Invoicing Software
+Software Name: BB Gass - CRM, Accounting and Invoicing Software
 Author: CloudOneX
 Website: https://www.cloudonex.com/
 License: You must have a valid license in order to legally use this Software.

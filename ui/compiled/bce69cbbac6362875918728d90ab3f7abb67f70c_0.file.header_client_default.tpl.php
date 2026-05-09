@@ -27,7 +27,7 @@ function content_603eb10d9c0642_82799719 (Smarty_Internal_Template $_smarty_tpl)
 <!--
 Dynamically Auto Generated Page - Do Not Edit
 ================================================================
-Software Name: iBilling - CRM, Accounting and Invoicing Software
+Software Name: BB Gass - CRM, Accounting and Invoicing Software
 Version: 4.6.1
 Author: CloudOnex
 Website: http://www.cloudonex.com

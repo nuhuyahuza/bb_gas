@@ -42,7 +42,7 @@ $_app_stage = \'Live\'; // You can set this variable Live to Dev to enable ibill
 <textarea rows="10" class="form-control">' .
         $input .
         '</textarea>
-<span class="help-block">iBilling required some folders writable. It seems folders is not writable. The App may not work properly. For common troubleshooting tips, please visit- <strong><a href="http://www.ibilling.io/common-troubleshooting-tips/" target="_blank">http://www.ibilling.io/common-troubleshooting-tips/</a></strong></span>
+<span class="help-block">BB Gass required some folders writable. It seems folders is not writable. The App may not work properly. For common troubleshooting tips, please visit- <strong><a href="http://www.ibilling.io/common-troubleshooting-tips/" target="_blank">http://www.ibilling.io/common-troubleshooting-tips/</a></strong></span>
 ';
 
     $wConfig = "../config.php";

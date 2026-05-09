@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>iBilling Update</title>
+    <title>BB Gass Update</title>
 
     <link href="{$_theme}/css/bootstrap.min.css" rel="stylesheet">
     <link href="{$_theme}/lib/fa/css/font-awesome.min.css" rel="stylesheet">
@@ -53,7 +53,7 @@
                     <div class="row">
                         <div class="col-sm-8 mt-md">
 
-                            <h4 class="h4 m-none text-dark text-bold">iBilling Update</h4>
+                            <h4 class="h4 m-none text-dark text-bold">BB Gass Update</h4>
                             <p><span  id="countmsg">Please Wait...</span> Or <a href="{$_url}dashboard/">Click Here.</a> </p>
                         </div>
                         <div class="col-sm-4 text-right mt-md mb-md">

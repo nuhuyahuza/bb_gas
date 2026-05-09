@@ -1,6 +1,6 @@
-# Language Files for iBilling
+# Language Files for BB Gass
 
-We need Contributor for iBilling ( http://codecanyon.net/item/ibilling-accounting-and-billing-software/11021678 ) Translation
+We need Contributor for BB Gass ( http://codecanyon.net/item/ibilling-accounting-and-billing-software/11021678 ) Translation
 
 ### Version
 2.4.0
